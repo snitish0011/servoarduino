@@ -9,7 +9,7 @@ The Arduino code reads integer values from the serial monitor (ranging from 0 to
 ## Hardware
 
 * Arduino Uno
-* Servo Motor (Specify model if possible, e.g., SG90, MG996R)
+* Servo Motor ( SG90 or MG996R)
 * Connecting Wires (for the servo motor)
 
 ## Software
